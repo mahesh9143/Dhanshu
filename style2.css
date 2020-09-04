@@ -1,0 +1,44 @@
+
+
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url("AP1_0375.jpg") no-repeat center center fixed;
+}
+
+h1{
+
+	font-size: 3rem;
+	color: blue;
+	justify-content: center;
+}
+
+.btn-primary{
+
+	background:tomato;
+	padding: 10px;
+	border-radius: 200px;
+	color: white;
+	text-transform: uppercase;
+	border-color: tomato;
+
+}
+.btn-primary:hover{
+	padding: 13px;
+	box-shadow: 5px yellow;
+
+}
+
+hr{
+	border-top: 5px solid tomato;
+	max-width: 250px;
+
+}
+
+.buffer{
+
+	height: 25rem;
+}
